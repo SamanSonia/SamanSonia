@@ -22,8 +22,8 @@ Performance: Lighthouse 95+, Grafana, Real-time analytics
 
  Why I’m Different
  
-I don’t just build software—I craft interactive ecosystems where design, scalability, and culture meet.”
-Fan-centric mindset: obsessed with zero-latency, high-emotion user journeys
+I don’t just build software—I craft interactive ecosystems where design, scalability, and culture meet.
+Tech-centric mindset: obsessed with zero-latency, high-emotion user journeys
 Scalable architecture: 1 → 1 M users without rewrites
 Creative + DevOps: ship pixel-perfect features and the infra that autoscale them
   Let’s Build the Next Wave
