@@ -2,7 +2,7 @@
   Saman Sonia · 
   
 Creative Technologist
-Full-stack engineer who turns culture & fandom into immersive, cloud-ready digital platforms
+Full-stack engineer who turns tech culture & fandom into immersive, cloud-ready digital platforms
   Open to contract / full-time roles 
 
    Signature Work
