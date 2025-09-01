@@ -14,7 +14,7 @@ Monorepo CMS for Media Drops	SvelteKit, PostgreSQL, CI/CD	Content creators ship 
 
   Core Skills 
   
-Front-end: Next.js (ISR/SSR), React Native, SvelteKit, Vue, Tailwind
+Front-end: Next.js (ISR/SSR), React Native, SvelteKit, Vue, Tailwind , Scss ,  TypeScript, JavaScript, JQuery
 Back-end: Node, Express, GraphQL (Apollo), FastAPI
 Data: MongoDB, PostgreSQL, MySQL, Redis
 Cloud/DevOps: AWS (EC2, S3, Lambda), GCP, Docker, GitLab CI/CD
